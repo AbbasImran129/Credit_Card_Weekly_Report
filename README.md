@@ -25,4 +25,14 @@ The goal is to demonstrate how raw credit card transaction data can be cleaned, 
 
 ---
 
-## 📂 Project Structure
+## 📊 Key Performance Indicators (KPIs)
+The dashboard tracks several important KPIs, including:
+- **Total Revenue** – Overall earnings from transactions  
+- **Total Transactions** – Number of credit card transactions per week  
+- **Average Transaction Value** – Indicator of customer spending patterns  
+- **Revenue Breakdown** – Interchange, interest, and fee-based revenue  
+- **Customer Segmentation** – Gender and category-wise contribution to total revenue
+
+---
+
+
