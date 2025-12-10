@@ -35,4 +35,10 @@ The dashboard tracks several important KPIs, including:
 
 ---
 
+## Dashboards
+# CREDIT CARD TRANSACTION REPORT
+<img width="1089" height="620" alt="Screenshot 2025-12-10 190444" src="https://github.com/user-attachments/assets/df46fee9-2025-42cb-b455-422b002c384d" />
 
+
+# CREDIT CARD CUSTOMER REPORT
+<img width="1086" height="627" alt="Screenshot 2025-12-10 190518" src="https://github.com/user-attachments/assets/59b8f5d6-ba6d-4fc5-b106-ad8cb09328c2" />
